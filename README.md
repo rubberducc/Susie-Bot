@@ -1,0 +1,2 @@
+# Susie-Bot
+discord bot
